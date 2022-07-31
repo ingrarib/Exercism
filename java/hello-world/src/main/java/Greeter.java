@@ -1,7 +1,7 @@
 class Greeter {
 
-    String getGreeting() {
-        return "Hello, World";
+    public String getGreeting() {
+        return "Hello, World!";
     }
 
 }
